@@ -14,7 +14,15 @@ The Vrinda Store wants to create an annual sales report for 2022. So that, the o
 - Created pivot tables according to the questions asked.
 - Merge all pivot tables into one dashboard and apply slicer to make dynamic.
 
-#Dashboard
+##Dashboard
 <img width="2522" height="1206" alt="Screenshot 2025-09-04 at 12 43 33 AM" src="https://github.com/user-attachments/assets/659e03c3-09f8-4221-a724-2713ac9336c6" />
 
                   
+##Sample Insights
+- Women are more likely to buy compared to men (~65%)
+- Maharashtra, Karnataka and Uttar Pradesh are the top 3 states (~35%)
+- Adult age group (30-49 yrs) is max contributing (~50%)
+
+## Conclusion
+Final Conclusion to improve Vrinda store sales:
+Target women customers of age group (30-49 yrs) living in Maharashtra, Karnataka and Uttar Pradesh by showing ads/offers/coupons available on Amazon, Flipkart and Myntra
